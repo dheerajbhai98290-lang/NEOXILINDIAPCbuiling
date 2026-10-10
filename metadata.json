@@ -1,0 +1,6 @@
+{
+  "name": "NEOXILINDIA — Billing & Business Management Software",
+  "description": "Zero-data clean business management software for NEOXILINDIA featuring invoicing, inventory, production, accounting, and multi-device support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

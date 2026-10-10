@@ -1,0 +1,73 @@
+{
+  "companySettings": {
+    "companyName": "NEOXILINDIA",
+    "tagline": "Billing & Business Management",
+    "gstin": "",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "state": "",
+    "stateCode": "",
+    "invoicePrefix": "INV-",
+    "nextInvoiceNumber": 1,
+    "purchasePrefix": "PUR-",
+    "nextPurchaseNumber": 1,
+    "defaultInvoiceSize": "A5_LANDSCAPE",
+    "termsAndConditions": "1. Goods once sold will not be accepted back.\n2. Payment terms: Due upon receipt.\n3. Subject to local jurisdiction."
+  },
+  "bankDetails": {
+    "bankName": "",
+    "accountHolderName": "",
+    "accountNumber": "",
+    "ifscCode": "",
+    "branch": "",
+    "upiId": "",
+    "paymentQrImage": ""
+  },
+  "adminUser": {
+    "username": "admin",
+    "name": "Administrator",
+    "role": "Administrator"
+  },
+  "customers": [],
+  "suppliers": [],
+  "products": [],
+  "invoices": [],
+  "purchases": [],
+  "expenses": [],
+  "payments": [],
+  "inventoryMovements": [],
+  "productionBatches": [],
+  "boms": [],
+  "wastageRecords": [],
+  "salesReturns": [],
+  "purchaseReturns": [],
+  "salesTargets": [],
+  "cashbookEntries": [],
+  "bankbookEntries": [],
+  "resetAudit": {
+    "timestamp": "2026-10-10T11:58:22.434Z",
+    "environment": "Central Production Database (Windows & Android)",
+    "targetDatabase": "neoxilindia_db.json",
+    "backupCreated": true,
+    "backupFilename": "backup_initial_pre_reset_snapshot.json",
+    "demoCustomersRemoved": 1,
+    "demoCustomersList": [
+      "Jaipur Wholesale Mart"
+    ],
+    "demoSuppliersRemoved": 1,
+    "demoProductsRemoved": 3,
+    "demoInvoicesRemoved": 2,
+    "demoPurchasesRemoved": 2,
+    "demoExpensesRemoved": 3,
+    "demoPaymentsRemoved": 2,
+    "demoInventoryMovementsRemoved": 6,
+    "demoProductionWastageRemoved": 2,
+    "demoOtherRecordsRemoved": 4,
+    "sampleBankDetailsRemoved": true,
+    "hardcodedDashboardFiguresEliminated": true,
+    "demoGeneratorsDisabled": true,
+    "emptyDatabaseVerified": true,
+    "windowsAndAndroidVerifiedAgainstSameDatabase": true
+  }
+}
